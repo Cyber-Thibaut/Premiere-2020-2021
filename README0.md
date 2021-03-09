@@ -7,8 +7,6 @@
   <a href="https://discord.gg/X2TWhh9"><img alt="Discord" src="https://img.shields.io/discord/663420259851567114?color=blue&labelColor=292929&label=chat%20-%20discord&logo=discord&style=for-the-badge" /></a>
 </p>
 
-> Don't understand french ? speak english ? here's the [english README](./README.md) !
-
 ## À propos
 
 Omega est un fork d'Epsilon, l'OS de Numworks tournant sur les calculatrices du même nom, qui apporte beaucoup de fonctionnalités en plus. Omega est fait pour ceux qui aimeraient ajouter certaines fonctionnalités ayant été rejetées par Numworks à leurs calculatrices (pour des raisons 100% compréhensibles !). [Essayez en ligne](https://getomega.web.app/simulator).
